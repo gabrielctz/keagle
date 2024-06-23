@@ -55,20 +55,18 @@
 ```
 🦅 Keagle Stealer - Networks Informations
 
-📡 IP Adress: 88.121.247.92
-📡 Hostname: 88-121-247-92.subs.proxad.net
-📡 City: Paris
-📡 Region: Île-de-France
-📡 Country: FR
-📡 Organisation: AS12322 Free SAS
-📡 Postal: 75008
-📡 Timezone: Europe/Paris
+📡 IP Adress: 102.129.143.0
+📡 City: Hünenberg
+📡 Region: Zug
+📡 Country: CH
+📡 Organisation: AS212238 Datacamp Limited
+📡 Postal: 6331
+📡 Timezone: Europe/Zurich
 ``` 
 
 - **Explication**:
   
     - 📡 **IP Address**: Montre l'adresse IP publique assignée à la machine par le fournisseur d'accès Internet. Ici, l'adresse IP est "88.121.247.92".
-    - 📡 **Hostname**: Affiche le nom d'hôte associé à l'adresse IP. Dans cet exemple, le nom d'hôte est "88-121-247-92.subs.proxad.net".
     - 📡 **City**: Indique la ville où se trouve l'utilisateur. Ici, la ville est "Paris".
     - 📡 **Region**: Montre la région administrative où se situe la machine. Dans cet exemple, c'est "Île-de-France".
     - 📡 **Country**: Affiche le pays où se trouve l'utilisateur. Ici, le pays est "FR" pour la France.
