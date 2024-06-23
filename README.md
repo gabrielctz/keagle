@@ -109,6 +109,8 @@
 - Comme nous pouvons le voir sur la **capture d'écran** ci-dessus, le fichier compilé permet de bypass tous les **AV connus**.
 - Il est malheureusment détecter par **deux AV** peu utilisé ainsi que celui de **Google** (*ce qui fait que les utilisateurs Google Chrome soit prévenue d'un potentiel virus lors de l'installation*)
 
+- **VT** : https://www.virustotal.com/gui/file/bdd8df964d58478715d40fd7cdf004d3aa04faf89d12ad38ad3307d1066ad0c3/detection
+
 **💡 Comment le rendre FUD (*fully undetectable*)**
 
 - *Fonctions*: Le changement de **noms des fonctions** par G3TBR0S3RS (*GetBrowsers*), peut rendre plus compliqué à un AV de détecter les noms de **fonctions potentiellement malveillantes**.
