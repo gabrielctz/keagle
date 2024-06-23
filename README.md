@@ -20,6 +20,7 @@
 | StartUp                 | file in startup                        | FILE              | ✘               |
 | Telegram Message        | send logs on telegram                  | FILE / STRING     | ✔               |
 
+
 **🔧 System Informations**
 
 ```
@@ -47,6 +48,7 @@
     - 💾 **Disk**: Indique l'espace disque disponible sur la machine. Dans cet exemple, il y a 28GB d'espace disque disponible.
     - 🔑 **Windows Key**: Affiche la clé de produit Windows utilisée pour activer le système d'exploitation. Ici, la clé est "47JN2-2WF7D-9YTKM-VMF8Q-F37RH".
 
+
 **🌐 Networks Informations**
 
 ```
@@ -72,6 +74,33 @@
     - 📡 **Organisation**: Indique le nom de l'organisation ou du fournisseur d'accès Internet assignant l'adresse IP. Dans cet exemple, il s'agit de "AS12322 Free SAS".
     - 📡 **Postal**: Montre le code postal de la localisation de l'utilisateur. Ici, le code postal est "75008".
     - 📡 **Timezone**: Affiche le fuseau horaire de la localisation de l'utilisateur. Dans cet exemple, c'est "Europe/Paris".
+
+
+**🎮 Discord Token**
+
+```
+🦅 Keagle Stealer - Discord Informations
+
+🔑 Discord Token: MjA0MjU1MjIxMDE3MjE0OTc3.EG2Veq.e66-ODIyNTg2NTEwNTUzMQ
+🆔 Discord ID: 204255221017214977
+👤 Username: discorduser
+👥 Global Name: user
+🔑 MFA: None
+🌏 Country: None
+✉️ Email: xxxx@xxx.xxx
+📞 Phone: +33.7.xx.xx.xx.xx
+``` 
+
+- **Explication**:
+  
+    - 🔑** Discord Token**: Affiche le jeton d'authentification Discord, qui est utilisé pour se connecter à l'API Discord en tant qu'utilisateur. Ici, le jeton est "MjA0MjU1MjIxMDE3MjE0OTc3.EG2Veq.e66-ODIyNTg2NTEwNTUzMQ".
+    - 🆔 **Discord ID**: Montre l'identifiant unique associé à l'utilisateur Discord. Dans cet exemple, l'ID est "204255221017214977".
+    - 👤 **Username**: Indique le nom d'utilisateur utilisé sur Discord. Ici, l'utilisateur se nomme "discorduser".
+    - 👥 **Global Name**: Affiche le nom global de l'utilisateur sur Discord, souvent identique au nom d'utilisateur mais peut différer. Dans cet exemple, le nom global est "user".
+    - 🔑 **MFA**: Indique si l'authentification à deux facteurs (MFA) est activée pour ce compte. Ici, "None" signifie qu'elle n'est pas activée.
+    - 🌏 **Country**: Montre le pays associé au compte Discord. Ici, il n'y a pas de pays spécifié ("None").
+    - ✉️ **Email**: Affiche l'adresse email associée au compte Discord. Dans cet exemple, l'email est "xxxx@xxx.xxx".
+    - 📞 **Phone**: Montre le numéro de téléphone associé au compte Discord. Ici, le numéro est "+33.7.xx.xx.xx.xx".
 
 ## **🦠 Virus Total Score (3/74)**
 
