@@ -20,7 +20,7 @@
 | StartUp                 | file in startup                        | FILE              | ✘               |
 | Telegram Message        | send logs on telegram                  | FILE / STRING     | ✔               |
 
-**🔧System Informations**
+**🔧 System Informations**
 
 ```
 🦅 Keagle Stealer - System Informations
@@ -38,15 +38,40 @@
 
 - **Explication**:
   
-    - 👤 Username: Indique le nom d'utilisateur actuel de la session Windows. Ici, l'utilisateur est "Gabriel".
-    - 🔬 Desktop Name: Montre le nom attribué à la machine dans le réseau ou localement. Dans cet exemple, le nom est "DESKTOP-TE3EV21".
-    - 📺 Operating System: Affiche le système d'exploitation installé sur la machine. Ici, il s'agit de "Microsoft Windows 10 Home".
-    - 🔧 HWID: Représente l'identifiant matériel unique de la machine (Hardware ID). C'est un identifiant unique pour la machine, ici "9bc5e380-e753-46ed-a976-027bd990d5db".
-    - ⚙️ Processor: Indique le type et le modèle du processeur installé. Dans cet exemple, c'est un "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz".
-    - 🎞 Memory: Montre la quantité de mémoire vive (RAM) disponible sur la machine. Ici, la machine dispose de 32GB de RAM.
-    - 💾 Disk: Indique l'espace disque disponible sur la machine. Dans cet exemple, il y a 28GB d'espace disque disponible.
-    - 🔑 Windows Key: Affiche la clé de produit Windows utilisée pour activer le système d'exploitation. Ici, la clé est "47JN2-2WF7D-9YTKM-VMF8Q-F37RH".
+    - 👤 **Username**: Indique le nom d'utilisateur actuel de la session Windows. Ici, l'utilisateur est "Gabriel".
+    - 🔬 **Desktop Name**: Montre le nom attribué à la machine dans le réseau ou localement. Dans cet exemple, le nom est "DESKTOP-TE3EV21".
+    - 📺 **Operating System**: Affiche le système d'exploitation installé sur la machine. Ici, il s'agit de "Microsoft Windows 10 Home".
+    - 🔧 **HWID**: Représente l'identifiant matériel unique de la machine (Hardware ID). C'est un identifiant unique pour la machine, ici "9bc5e380-e753-46ed-a976-027bd990d5db".
+    - ⚙️ **Processor**: Indique le type et le modèle du processeur installé. Dans cet exemple, c'est un "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz".
+    - 🎞 **Memory**: Montre la quantité de mémoire vive (RAM) disponible sur la machine. Ici, la machine dispose de 32GB de RAM.
+    - 💾 **Disk**: Indique l'espace disque disponible sur la machine. Dans cet exemple, il y a 28GB d'espace disque disponible.
+    - 🔑 **Windows Key**: Affiche la clé de produit Windows utilisée pour activer le système d'exploitation. Ici, la clé est "47JN2-2WF7D-9YTKM-VMF8Q-F37RH".
 
+**🌐 Networks Informations**
+
+```
+🦅 Keagle Stealer - Networks Informations
+
+📡 IP Adress: 88.121.247.92
+📡 Hostname: 88-121-247-92.subs.proxad.net
+📡 City: Paris
+📡 Region: Île-de-France
+📡 Country: FR
+📡 Organisation: AS12322 Free SAS
+📡 Postal: 75008
+📡 Timezone: Europe/Paris
+``` 
+
+- **Explication**:
+  
+    - 📡 **IP Address**: Montre l'adresse IP publique assignée à la machine par le fournisseur d'accès Internet. Ici, l'adresse IP est "88.121.247.92".
+    - 📡 **Hostname**: Affiche le nom d'hôte associé à l'adresse IP. Dans cet exemple, le nom d'hôte est "88-121-247-92.subs.proxad.net".
+    - 📡 **City**: Indique la ville où se trouve l'utilisateur. Ici, la ville est "Paris".
+    - 📡 **Region**: Montre la région administrative où se situe la machine. Dans cet exemple, c'est "Île-de-France".
+    - 📡 **Country**: Affiche le pays où se trouve l'utilisateur. Ici, le pays est "FR" pour la France.
+    - 📡 **Organisation**: Indique le nom de l'organisation ou du fournisseur d'accès Internet assignant l'adresse IP. Dans cet exemple, il s'agit de "AS12322 Free SAS".
+    - 📡 **Postal**: Montre le code postal de la localisation de l'utilisateur. Ici, le code postal est "75008".
+    - 📡 **Timezone**: Affiche le fuseau horaire de la localisation de l'utilisateur. Dans cet exemple, c'est "Europe/Paris".
 
 ## **🦠 Virus Total Score (3/74)**
 
