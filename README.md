@@ -66,13 +66,13 @@
 
 - **Explication**:
   
-    - 📡 **IP Address**: Montre l'adresse IP publique assignée à la machine par le fournisseur d'accès Internet. Ici, l'adresse IP est "88.121.247.92".
-    - 📡 **City**: Indique la ville où se trouve l'utilisateur. Ici, la ville est "Paris".
-    - 📡 **Region**: Montre la région administrative où se situe la machine. Dans cet exemple, c'est "Île-de-France".
-    - 📡 **Country**: Affiche le pays où se trouve l'utilisateur. Ici, le pays est "FR" pour la France.
-    - 📡 **Organisation**: Indique le nom de l'organisation ou du fournisseur d'accès Internet assignant l'adresse IP. Dans cet exemple, il s'agit de "AS12322 Free SAS".
-    - 📡 **Postal**: Montre le code postal de la localisation de l'utilisateur. Ici, le code postal est "75008".
-    - 📡 **Timezone**: Affiche le fuseau horaire de la localisation de l'utilisateur. Dans cet exemple, c'est "Europe/Paris".
+    - 📡 **IP Address**: Montre l'adresse IP publique assignée à la machine par le fournisseur d'accès Internet. Ici, l'adresse IP est "102.129.143.0".
+    - 📡 **City**: Indique la ville où se trouve l'utilisateur. Ici, la ville est "Hünenberg".
+    - 📡 **Region**: Montre la région administrative où se situe la machine. Dans cet exemple, c'est "Zug".
+    - 📡 **Country**: Affiche le pays où se trouve l'utilisateur. Ici, le pays est "CH" pour la Suisse.
+    - 📡 **Organisation**: Indique le nom de l'organisation ou du fournisseur d'accès Internet assignant l'adresse IP. Dans cet exemple, il s'agit de "AS212238 Datacamp Limited".
+    - 📡 **Postal**: Montre le code postal de la localisation de l'utilisateur. Ici, le code postal est "6331".
+    - 📡 **Timezone**: Affiche le fuseau horaire de la localisation de l'utilisateur. Dans cet exemple, c'est "Europe/Zurich".
 
 
 **🎮 Discord Token**
