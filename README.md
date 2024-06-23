@@ -37,6 +37,7 @@
 ``` 
 
 - **Explication**:
+  
     - 👤 Username: Indique le nom d'utilisateur actuel de la session Windows. Ici, l'utilisateur est "Gabriel".
     - 🔬 Desktop Name: Montre le nom attribué à la machine dans le réseau ou localement. Dans cet exemple, le nom est "DESKTOP-TE3EV21".
     - 📺 Operating System: Affiche le système d'exploitation installé sur la machine. Ici, il s'agit de "Microsoft Windows 10 Home".
