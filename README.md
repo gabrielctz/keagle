@@ -8,6 +8,7 @@
 - Ce script en **Golang** permet de récupérer des informations sur la machine ayant executé ce script.
 - Ce code est à pur **but éducatif**, ce repos permet de comprendre le **fonctionnement** de ce dernier.
 
+
 ## **🔖 Modules**
 
 | Nom                     | Utilité                                | Format            |  Actif
@@ -102,6 +103,7 @@
     - ✉️ **Email**: Affiche l'adresse email associée au compte Discord. Dans cet exemple, l'email est "xxxx@xxx.xxx".
     - 📞 **Phone**: Montre le numéro de téléphone associé au compte Discord. Ici, le numéro est "+33.7.xx.xx.xx.xx".
 
+
 ## **🦠 Virus Total Score (3/74)**
 
 ![image](https://github.com/gabrielctz/keagle/assets/133511026/1e71a2bc-d7b7-433c-8276-6263f4e3e8bd)
@@ -120,6 +122,7 @@
 - *Anti-IP*: Tout comme l'Anti-VM, l'ajout d'une fonction de blacklist des **IPs** peut aider à réduire le score sur **VirusTotal**.
   
 
+
 ## **🔧 Requirements / Launch**
 
 - [Golang](https://go.dev)
@@ -130,6 +133,7 @@ cd keagle
 ```
 
 - **Configuration**: Pour recevoir les informations sur **Telegram**, rendez vous dans le fichier *getConfig.go* et coller le **token/chat_id** de votre **bot/groupe**.
+
 
 
 ### 💖 Then just run the script 
