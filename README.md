@@ -6,7 +6,7 @@
 ## **🦅 Keagle Stealer**
 
 - Ce script en **Golang** permet de récupérer des informations sur la machine ayant executé ce script.
-- Ce code est à pur **but éducatif**, ce repos permet de comprendre le **fonctionnement** de ce dernier.
+- Ce code est à pur **but éducatif**, ce repos permet de comprendre le **fonctionnement** d'un stealer.
 
 
 ## **🔖 Modules**
